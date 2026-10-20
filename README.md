@@ -7,7 +7,7 @@ I work on both sides of one problem: how AI assistance changes what an attacker 
 ## What I am working on
 
 - **AI-assisted malware analysis for detection rules** (thesis). Whether an agent that chooses its own analysis steps writes Sigma rules that catch more malware, with fewer false alerts, than a fixed workflow. Approved October 2026.
-- **Evaluating autonomous pentest agents.** A sealed-lab study of what an autonomous LLM penetration-testing platform does unsupervised, and how much of it the detection shipped alongside it catches. Early read: almost none.
+- **[Evaluating autonomous pentest agents](https://hi-im-pod.github.io/work.html#autonomous-agents).** An exploratory study on intentionally vulnerable lab targets. I compare reported outcomes and document the limits of the bundled detection rules, sensor coverage, and available run evidence.
 - **[APT Explorer](https://github.com/hi-im-pod/apt-explorer).** An open-data explorer that merges APT actor records across MITRE ATT&CK, MISP, ETDA and Malpedia, so one vendor's alias does not hide the reports filed under another.
 
 ## Background
@@ -17,7 +17,7 @@ SOC architecture and SIEM ingestion pipelines for more than 30 CMMC government-c
 ## Links
 
 - **Site:** https://hi-im-pod.github.io
-- **Write-up:** [Multi-tenant SIEM architecture for 30+ CMMC clients](https://hi-im-pod.github.io/work.html)
+- **Write-up:** [Multi-tenant SIEM architecture for 30+ CMMC clients](https://hi-im-pod.github.io/work.html#siem-fidelity)
 - **ORCID:** [0009-0007-6651-9111](https://orcid.org/0009-0007-6651-9111)
 - **LinkedIn:** [garrett-ennis-security](https://www.linkedin.com/in/garrett-ennis-security/)
 
